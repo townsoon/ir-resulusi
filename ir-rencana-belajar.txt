@@ -1,0 +1,4 @@
+Rencana belajar
+- Phyton
+- Ruby
+- Django
